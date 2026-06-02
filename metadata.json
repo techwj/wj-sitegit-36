@@ -1,0 +1,59 @@
+{
+  "siteId": "beginner-zero-fail-baking",
+  "generatedAt": "2026-06-02T15:35:10.888104",
+  "categories": [
+    "beginner-beginner-zero-fail-baking",
+    "advanced-beginner-zero-fail-baking",
+    "tips-beginner-zero-fail-baking",
+    "history-beginner-zero-fail-baking",
+    "trending-beginner-zero-fail-baking",
+    "tutorials-beginner-zero-fail-baking"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-beginner-zero-fail-baking",
+      "category_name": "Beginner Beginner Zero-Fail Baking"
+    },
+    {
+      "category_slug": "advanced-beginner-zero-fail-baking",
+      "category_name": "Advanced Beginner Zero-Fail Baking"
+    },
+    {
+      "category_slug": "tips-beginner-zero-fail-baking",
+      "category_name": "Beginner Zero-Fail Baking Tips"
+    },
+    {
+      "category_slug": "history-beginner-zero-fail-baking",
+      "category_name": "Beginner Zero-Fail Baking History"
+    },
+    {
+      "category_slug": "trending-beginner-zero-fail-baking",
+      "category_name": "Trending Beginner Zero-Fail Baking"
+    },
+    {
+      "category_slug": "tutorials-beginner-zero-fail-baking",
+      "category_name": "Beginner Zero-Fail Baking Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "beginner-zero-fail-baking",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Beginner Zero-Fail Baking Central",
+    "articles_per_row": 1
+  }
+}
